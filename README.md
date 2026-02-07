@@ -96,8 +96,3 @@ Contents: {users_count=1500, last_backup=2024-01-15, database_size_mb=2450.75}
 Developed by **Satyam Sharma**  
 ```
 
----
-
-This README will make your repository look professional and informative.  
-
-Would you like me to also add **badges** (like Java version, build status, license) at the top of the README to give it a more polished GitHub look?
